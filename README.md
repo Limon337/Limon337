@@ -6,9 +6,7 @@
      I’m always exploring ways to push the boundaries of what’s possible in development!  
 🌟 **Let’s build something amazing together**!
     I’m open to collaborating on projects that challenge my skills and bring out the best in tech.  
-📬 **Reach out**: limon@innovatesolution.com 
-🎯 **Fun Fact**: When I’m not writing code, I’m obsessed with **solving complex problems**, 
-   **optimizing algorithms ** and turning coffee into code!  
+📬 **Reach out me**: limon@innovatesolution.com   
 🚀 Always learning, growing, and striving for **better, faster, stronger** code.
 
 <!---
